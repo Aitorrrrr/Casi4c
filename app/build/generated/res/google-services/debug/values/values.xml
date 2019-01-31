@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">229224510177-1lj1qlosunhgn96fuuj4as6g1vf8bemj.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://quicktrade-bbd41.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">229224510177</string>
+    <string name="google_api_key" translatable="false">AIzaSyCZzwqtGFU5FDExASGdJ2yEc8fn70MHR84</string>
+    <string name="google_app_id" translatable="false">1:229224510177:android:cde4559f4883c041</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCZzwqtGFU5FDExASGdJ2yEc8fn70MHR84</string>
+    <string name="google_storage_bucket" translatable="false">quicktrade-bbd41.appspot.com</string>
+    <string name="project_id" translatable="false">quicktrade-bbd41</string>
+</resources>
